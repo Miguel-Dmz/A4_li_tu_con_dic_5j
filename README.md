@@ -10,4 +10,9 @@ Ejemplos de phyton sobre listas, tuplas, conjuntos diccionarios
 - ![image](https://github.com/user-attachments/assets/5e5f0610-46a3-4be0-b463-ad8bc30645e2)
 - resultado
 - ![image](https://github.com/user-attachments/assets/88a7313f-cc65-42e9-938e-7d88d51b6430)
+## ejemplo de conjuntos set
+- codigo
+- ![image](https://github.com/user-attachments/assets/d1b64f74-d09c-47da-9910-c04df761e7c2)
+- resultado
+- ![image](https://github.com/user-attachments/assets/18ba2e96-6ea2-49e2-add5-cc475e454a1f)
 
